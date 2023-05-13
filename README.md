@@ -19,3 +19,4 @@
 ## 📫 Contact me
 
 [:email:](vteje2@gmail.com)
+vteje2@gmail.com
