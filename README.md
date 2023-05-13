@@ -5,8 +5,10 @@
 <br>
 
 ## :bicyclist: About Me
--  Full Stack Web Development student @ Factoría F5.
--  Cambridge Certificate in Advanced English (C1).
+<p align="center">
+  -  Full Stack Web Development student @ Factoría F5.
+  -  Cambridge Certificate in Advanced English (C1).
+</p>
 
 <br>
 
