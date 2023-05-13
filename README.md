@@ -4,7 +4,7 @@
 
 <br>
 
-## 🚀 About Me
+## :bicyclist: About Me
 -  I'm a web development student based in Gijón, Asturias.
 -  Cambridge Certificate in Advanced English (C1).
 
