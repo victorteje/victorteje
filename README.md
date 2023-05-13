@@ -20,8 +20,3 @@
 ## 📫 Contact me
 
 [:email:](mailto:vteje2@gmail.com)
-
-
-
-https://github.com/victorteje/github-readme-stats
-
