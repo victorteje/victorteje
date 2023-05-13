@@ -15,3 +15,15 @@
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/css3.png"/>  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  <img height=45px src="https://img.icons8.com/color/2x/figma.png"> 
 
 <br>
+
+## 📊 Github Stats
+
+<details>
+  <summary>💻 GitHub Profile Stats</summary>
+
+  <br/>
+
+  <p align="center">
+      <img alt="Víctor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=victorteje&show_icons=true" height="192px"/></a>
+  </p>
+</details>
