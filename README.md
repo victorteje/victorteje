@@ -1,6 +1,6 @@
 ### Hi, I'm Víctor 👋
 
-(https://imgur.com/a/kznpkOo)
+[(https://imgur.com/kMRROOR)](https://imgur.com/kMRROOR)
 
 I'm a web development student based in Gijón.
 
