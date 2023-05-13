@@ -20,7 +20,7 @@
 ## 📫: Contact me
 
 <a href="mailto:vteje2@gmail.com">
-      <img margin-left="50%" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail"/>
+      <img height="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail"/>
 </a>
 
 <br>
@@ -39,5 +39,4 @@
 
 </details>
 
-<br>
 <br>
