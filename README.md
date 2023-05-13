@@ -18,5 +18,5 @@
 
 ## 📫 Contact me
 
-[:email:](mailto:vteje2@gmail.com)
+    ##[:email:](mailto:vteje2@gmail.com)
 
