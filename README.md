@@ -1,6 +1,7 @@
 ### Hi, I'm Víctor 👋
 
-![WhatsApp Image 2022-11-09 at 16 05 33](https://github.com/victorteje/victorteje/assets/132447110/f4e9148c-4149-4767-96c6-66e1cdd8e2ba)
+![WhatsApp Image 2022-11-09 at 16 05 33](https://github.com/victorteje/victorteje/assets/132447110/4a3fbc7c-81a5-457f-a954-9605c837d760)
+
 
 <br>
 
