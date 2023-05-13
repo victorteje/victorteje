@@ -5,7 +5,7 @@
 <br>
 
 ## :bicyclist: About Me
--  I'm a web development student based in Gijón, Asturias.
+-  I'm a Full Stack Web Development student @ Factoria F5.
 -  Cambridge Certificate in Advanced English (C1).
 
 <br>
@@ -16,6 +16,6 @@
 
 <br>
 
-- 🌱 I’m currently learning: Full Stack Web Development @ Factoria F5
+## 📫 Contact me
 
-- 📫 How to reach me: vteje2@gmail.com
+[:email:](vteje2@gmail.com)
