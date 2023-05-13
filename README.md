@@ -5,7 +5,7 @@
 <br>
 
 ## :bicyclist: About Me
--  I'm a Full Stack Web Development student @ Factoria F5.
+-  Full Stack Web Development student @ Factoria F5.
 -  Cambridge Certificate in Advanced English (C1).
 -  Based in Gijón, Asturias.
 
