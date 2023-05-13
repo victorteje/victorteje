@@ -9,6 +9,6 @@ Skills: HTML / CSS / JS
 
 
 
-- 🌱 I’m currently learning: Full Stack Web Development at Factoriaf5.org
+- 🌱 I’m currently learning: Full Stack Web Development @ Factoriaf5.org
 
 - 📫 How to reach me: vteje2@gmail.com
