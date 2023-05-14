@@ -1,4 +1,4 @@
-### Hi, I'm Víctor 👋
+<h1 text-align="center"> Hi, I'm Víctor. 👋</h1>
 
 ![WhatsApp Image 2022-11-09 at 16 05 33](https://github.com/victorteje/victorteje/assets/132447110/cae09f68-fbb3-4ec5-b79c-76194d8b41e8)
 
