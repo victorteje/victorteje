@@ -22,8 +22,10 @@
 <a href="mailto:vteje2@gmail.com">
       <img height="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail"/>
 </a>
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victortejedor/)
+&emsp;
+<a href="https://www.linkedin.com/in/victortejedor/">
+      <img width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"/>
+</a>
 
 <br>
 <br>
