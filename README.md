@@ -41,10 +41,7 @@
   <summary>💻 GitHub Profile Stats</summary>
 
   <br>
-
-  <p align="center">
-      <img alt="Víctor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=victorteje&show_icons=true&count_private=true&theme=chalk" height="192px"/></a>
-  </p>
+  
    <p align="center">
       <img alt="Víctor's Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorteje&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chalk" height="192px"/></p>
   </p>
