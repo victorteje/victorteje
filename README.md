@@ -13,22 +13,27 @@
 
 ## 🛠 My Stack
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"><img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"><img height=60px src="https://img.icons8.com/color/2x/vue-js.png" alt="Vue"><img height=60px src="./assets/java.png" alt="Java"><img height=60px  src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="SQL"><img height=60px src="https://img.icons8.com/?size=512&id=4PiNHtUJVbLs&format=png" alt="Tailwind"><img height=45px src="https://img.icons8.com/color/2x/figma.png" alt="Figma">
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="35" height="35" />        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="30" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="30" height="30"/>
+</p>
   
 <br>
 
 ## 📫: Contact me
 
-<a href="mailto:vteje2@gmail.com">
-      <img height="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail"/>
-</a>
-&emsp;
-<a href="https://www.linkedin.com/in/victortejedor/">
-      <img width="25px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"/>
-</a>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="auto" width="20"/> [LinkedIn](https://www.linkedin.com/in/victortejedor/) <br/><br/>
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="linkedin" height="auto" width="20"/> [Gmail](mailto:vteje2@gmail.com) <br/><br/>
 
-<br>
-<br>
 
 ## 📊 Github Stats
 
