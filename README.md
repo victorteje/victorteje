@@ -6,7 +6,7 @@
 
 ## :bicyclist: About Me
 
-  -  Currently undertaking a Full Stack Web Development Bootcamp (850 hours) @ Factoría F5.
+  -  Full Stack Web Developer.
   -  Cambridge Certificate in Advanced English (C1).
 
 <br>
