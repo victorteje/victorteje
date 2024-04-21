@@ -4,13 +4,6 @@
 
 <br>
 
-## :bicyclist: About Me
-
-  -  Full Stack Web Developer.
-  -  Cambridge Certificate in Advanced English (C1).
-
-<br>
-
 ## 🛠 My Stack
 
 <p>
