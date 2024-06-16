@@ -27,7 +27,7 @@
 ## 📫: Contact me
 
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="auto" width="20"/> [LinkedIn](https://www.linkedin.com/in/victortejedor/) <br/><br/>
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="linkedin" height="auto" width="20"/> [Gmail](mailto:vteje2@gmail.com) <br/><br/>
+<img align="center" src="https://www.logo.wine/a/logo/Microsoft_Outlook/Microsoft_Outlook-Logo.wine.svg" alt="linkedin" height="auto" width="20"/> [Email](mailto:v.tejedor@outlook.com) <br/><br/>
 
 
 ## 📊 Github Stats
